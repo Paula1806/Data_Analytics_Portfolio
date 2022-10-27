@@ -7,4 +7,4 @@ To nurture my passion for extracting data insights and eagerness to transition m
 
 This portfolio reflects my journey into the analytcis field.
 
-Linkedin (https://www.linkedin.com/in/mpaularodriguez/)
+Linkedin https://www.linkedin.com/in/mpaularodriguez/
