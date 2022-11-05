@@ -9,13 +9,7 @@ This portfolio reflects my journey into the analytics field.
 
 Linkedin https://www.linkedin.com/in/mpaularodriguez/
 
-## Skills
-Microsoft Excel
+## Technical Skills
+Microsoft Excel, SQL, Python, Tableau, Salesforce, SPSS Modeler
 
-SQL
-
-Python
-
-Tableau
-
-Salesforce
+## Projects
