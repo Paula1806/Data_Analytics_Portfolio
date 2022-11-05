@@ -11,7 +11,11 @@ Linkedin https://www.linkedin.com/in/mpaularodriguez/
 
 ## Skills
 Microsoft Excel
+
 SQL
+
 Python
+
 Tableau
+
 Salesforce
