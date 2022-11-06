@@ -28,3 +28,8 @@ My role and tasks developed during this project were:
 **R Code:** [Telemarketing_analysis.R](https://github.com/Paula1806/Data_Analytics_Portfolio/blob/d53cb14a5c7447dfa0d4365558ff3547662f7dde/BigData2_GroupProject.R)
 
 **Presentation File:** [Telemarketing_Campaign.pdf](https://github.com/Paula1806/Data_Analytics_Portfolio/blob/52d8493c3857becfb834030719816b5e53c89bce/Telemarketing%20Campaign_Presentation.pdf)
+
+** Tableau
+
+Here is the link for my Tableau Public Profile
+[Paula Rodriguez Tableau](https://public.tableau.com/app/profile/paula.rodriguez1806)
