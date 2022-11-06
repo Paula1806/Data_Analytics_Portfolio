@@ -14,7 +14,7 @@ Microsoft Excel, SQL, Python, Tableau, Salesforce, SPSS Modeler
 
 ## Projects
 
-**Bank Telemarketing Campaign Analysis - Collaborative Work.**
+###**Bank Telemarketing Campaign Analysis - Collaborative Work.**
 
 **Language & Tools:** Excel,  R, PowerPoint. 
 
