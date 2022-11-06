@@ -15,4 +15,5 @@ Microsoft Excel, SQL, Python, Tableau, Salesforce, SPSS Modeler
 ## Projects
 
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md) [Telemarketing Campaign_Presentation.pdf]
+[Contribution guidelines for this project](docs/CONTRIBUTING.md) [Telemarketing Campaign_Presentation.pdf] [Telemarketing Campaign_Presentation.pdf]  
+[Telemarketing Campaign_Presentation.pdf] https://github.com/Paula1806/Data_Analytics_Portfolio/blob/52d8493c3857becfb834030719816b5e53c89bce/Telemarketing%20Campaign_Presentation.pdf
