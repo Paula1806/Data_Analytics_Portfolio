@@ -14,8 +14,10 @@ Microsoft Excel, SQL, Python, Tableau, Salesforce, SPSS Modeler
 
 ## Projects
 
-**Bank Telemarketing Campaign Analysis** - Collaborative Work.
+**Bank Telemarketing Campaign Analysis - Collaborative Work.**
+
 **Language & Tools:** Excel,  R, PowerPoint. 
+
 The purpose of the project was to analyze the results of a telemarketing campaign that a financial institution located in Portugal performed to promote its long-term bank deposit product. I teamed up with a group of data analysts to perform the analysis in R Studio. 
 My role and tasks developed during this project were:
 - Analyzed the subscription rate for every variable that contained customer data, 
