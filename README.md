@@ -13,3 +13,6 @@ Linkedin https://www.linkedin.com/in/mpaularodriguez/
 Microsoft Excel, SQL, Python, Tableau, Salesforce, SPSS Modeler
 
 ## Projects
+
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md) [Telemarketing Campaign_Presentation.pdf]
