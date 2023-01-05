@@ -20,7 +20,7 @@ Microsoft Excel, SQL, Python, Tableau, Salesforce, SPSS Modeler
 
 The purpose of the project was to analyze the results of a telemarketing campaign that a financial institution located in Portugal performed to promote its long-term bank deposit product. I teamed up with a group of data analysts to perform the analysis in R Studio. 
 My role and tasks developed during this project were:
-- Analyzed the subscription rate for every variable that contained customer data, 
+- Analyzed the subscription rate for every variable that contained customer data. 
 - Developed the visualizations to present the insights.
 - Provided recommendations for future campaigns
 - Presented insights and recommendations to an audience of 45 people. 
@@ -28,6 +28,18 @@ My role and tasks developed during this project were:
 **R Code:** [Telemarketing_analysis.R](https://github.com/Paula1806/Data_Analytics_Portfolio/blob/d53cb14a5c7447dfa0d4365558ff3547662f7dde/BigData2_GroupProject.R)
 
 **Presentation File:** [Telemarketing_Campaign.pdf](https://github.com/Paula1806/Data_Analytics_Portfolio/blob/52d8493c3857becfb834030719816b5e53c89bce/Telemarketing%20Campaign_Presentation.pdf)
+
+### Employee Attrition Analysis - Collaborative Work
+
+**Language & Tools:** Excel,  IBM Cognos Analytics, PowerPoint. 
+
+This analysis aims to get insights into the main factors behind employee attrition. We selected a dataset available in Kaggle and analyzed it by answering who the employees who left the company were, when they left it, and why. To present our findings, we used the Cognos Analytics dashboard.
+My role and tasks developed during this project were:
+-Analyzed why employees left the company from variables related to overtime work, travel frequency, salary, work-life balance, and distance home-office. 
+-Developed the dashboard to present insights and recommendations. (Slide- 10)
+-Presented insights and recommendations regarding “why” to an audience of 45 people.
+
+**Presentation File:** 
 
 ### Tableau
 
