@@ -35,11 +35,11 @@ My role and tasks developed during this project were:
 
 This analysis aims to get insights into the main factors behind employee attrition. We selected a dataset available in Kaggle and analyzed it by answering who the employees who left the company were, when they left it, and why. To present our findings, we used the Cognos Analytics dashboard.
 My role and tasks developed during this project were:
--Analyzed why employees left the company from variables related to overtime work, travel frequency, salary, work-life balance, and distance home-office. 
--Developed the dashboard to present insights and recommendations. (Slide- 10)
--Presented insights and recommendations regarding “why” to an audience of 45 people.
+- Analyzed why employees left the company from variables related to overtime work, travel frequency, salary, work-life balance, and distance home-office. 
+- Developed the dashboard to present insights and recommendations. (Slide- 10)
+- Presented insights and recommendations regarding “why” to an audience of 45 people.
 
-**Presentation File:** 
+**Dashboard developed "Why":** [Why Employees Leave.pdf] https://github.com/Paula1806/Data_Analytics_Portfolio/blob/main/Why_Employee%20Attrition.pdf
 
 ### Tableau
 
