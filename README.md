@@ -39,7 +39,7 @@ My role and tasks developed during this project were:
 - Developed the dashboard to present insights and recommendations. (Slide- 10)
 - Presented insights and recommendations regarding “why” to an audience of 45 people.
 
-**Dashboard developed "Why":** [Why Employees Leave.pdf] https://github.com/Paula1806/Data_Analytics_Portfolio/blob/main/Why_Employee%20Attrition.pdf
+**Dashboard developed "Why":** [Why Employees Leave.pdf] (https://github.com/Paula1806/Data_Analytics_Portfolio/blob/main/Why_Employee%20Attrition.pdf)
 
 ### Tableau
 
